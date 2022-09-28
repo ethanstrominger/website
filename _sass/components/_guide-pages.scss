@@ -108,7 +108,6 @@
 }
 
 .section-container img {
-  display: table-cell;
   vertical-align: top;
 }
 
@@ -142,11 +141,11 @@
   border-radius: 10px;
   margin: 2% 12%;
   padding: 5% 12.5%;
-  text-align: center;
+  text-align: left;
 }
 
 .center {
-  p { text-align: center; }
+  text-align: center;
 }
 
 .grayarrow {
