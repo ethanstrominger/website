@@ -1,14 +1,3 @@
----
-title: How to Set Reminders in Slack GDOC
-description: 
-short-description: 
-card-type: guide-page
-status: active
-display: true
-category: Development
-svg: svg/2FA.svg
-provider-link: /guide-pages/how-to-set-reminders-in-slack-gdoc-gdoc
----
 <div class="content-section">
 <div class="section-container" markdown="1">
 <div class="center" markdown="1">
