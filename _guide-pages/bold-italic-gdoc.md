@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: dev
 display: true
-category: Development
+phase: dev
 svg: svg/2FA.svg
 provider-link: /guide-pages/bold-italic-gdoc
 id: 2
