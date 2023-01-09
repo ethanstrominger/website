@@ -1,3 +1,14 @@
+---
+title: Bullets and Lists
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+category: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/bullets-and-lists-gdoc
+---
 <div class="content-section">
 <div class="section-container" markdown="1">
 
@@ -38,4 +49,4 @@ This is a numbered list
     
  4. Won't Have
 </div>
-</div> 1673137233898
+</div>
