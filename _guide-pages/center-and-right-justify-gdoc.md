@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-category: Development
+phase: dev
 svg: svg/2FA.svg
 provider-link: /guide-pages/center-and-right-justify-gdoc
 ---
@@ -21,4 +21,4 @@ This is centered text
 
 This is right justified text
 </div>
-</div>
+</div> 2023-01-09T21:33:48.589Z
