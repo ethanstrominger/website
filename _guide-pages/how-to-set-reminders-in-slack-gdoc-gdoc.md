@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-category: Development
+phase: dev
 svg: svg/2FA.svg
 provider-link: /guide-pages/how-to-set-reminders-in-slack-gdoc-gdoc
 ---
@@ -146,4 +146,4 @@ If this method does not work for you, it might be a permissions issue. Discuss w
 
 <span style='font-size:0.91em;color:rgb(102, 102, 102)'>If you are outside the Hack for LA community, please email the</span> [<span style='font-size:0.91em'>guides team</span>](mailto:guides@hackforla.org)<span style='font-size:0.91em;color:rgb(67, 67, 67)'>to provide suggestions for improvement or how the guide is useful for you.</span>
 </div>
-</div>
+</div> 2023-01-09T21:33:47.282Z
