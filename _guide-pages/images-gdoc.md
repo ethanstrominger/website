@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-category: Development
+phase: dev
 svg: svg/2FA.svg
 provider-link: /guide-pages/images-gdoc
 ---
@@ -85,4 +85,4 @@ This image is from https://www.codeforboston.org/img/cfb-logo/cfb-logo-stacked-d
 
 ## Right Justified Image
 </div>
-</div>
+</div> 2023-01-09T21:33:49.114Z
