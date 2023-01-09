@@ -1,13 +1,18 @@
 ---
-title: Bold italic
-description: 
+title: test title
+description: test description
 short-description: 
 card-type: guide-page
-status: active
+status: dev
 display: true
 category: Development
 svg: svg/2FA.svg
 provider-link: /guide-pages/bold-italic-gdoc
+id: 2
+google_id: 1rGLToDtbpnhKtkIcdcVQA3N3hWbyKFEs_BUmuD90VaE
+slug: test-title
+published: false
+authors: [object Object],[object Object]
 ---
 <div class="content-section">
 <div class="section-container" markdown="1">
