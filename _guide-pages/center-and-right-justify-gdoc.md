@@ -21,4 +21,4 @@ This is centered text
 
 This is right justified text
 </div>
-</div> 2023-01-09T23:29:49.253Z
+</div>
