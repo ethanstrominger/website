@@ -1,3 +1,14 @@
+---
+title: Table
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+category: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/table-gdoc
+---
 <div class="content-section">
 <div class="section-container" markdown="1">
 
@@ -22,4 +33,4 @@ Text in a one cell table will be treated as a code block
 | **_Bold & Italic_** |
 | **_<ins>Bold, Italic, and Underline</ins>_** |
 </div>
-</div> 1673137232891
+</div>
