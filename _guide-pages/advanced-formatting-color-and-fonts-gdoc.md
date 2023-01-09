@@ -1,3 +1,14 @@
+---
+title: Advanced Formatting - color and fonts
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+category: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/advanced-formatting-color-and-fonts-gdoc
+---
 <div class="content-section">
 <div class="section-container" markdown="1">
 
@@ -18,4 +29,4 @@ Impact
 
 <span style='color:rgb(255, 255, 255);background-color:rgb(255, 0, 255)'>White text with pink bangrounds</span>
 </div>
-</div> 1673137235143
+</div>
