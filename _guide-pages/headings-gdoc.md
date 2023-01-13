@@ -1,14 +1,3 @@
----
-title: Headings
-description: 
-short-description: 
-card-type: guide-page
-status: active
-display: true
-phase: dev
-svg: svg/2FA.svg
-provider-link: /guide-pages/headings-gdoc
----
 <div class="content-section">
 <div class="section-container" markdown="1">
 ## Most Important Topic (Heading 1)
@@ -26,4 +15,4 @@ Description of subtopic
 
 Description of buried info
 </div>
-</div> 2023-01-10T14:04:01.555Z
+</div> 2023-01-13T18:08:24.050Z
