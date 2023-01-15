@@ -1,4 +1,16 @@
-[object Promise]<div class="content-section">
+---
+title: 
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+phase: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/bullets-and-lists-gdoc
+cover: 
+---
+<div class="content-section">
 <div class="section-container" markdown="1">
 
 this is a bulleted list:
@@ -38,4 +50,4 @@ This is a numbered list
     
  4. Won't Have
 </div>
-</div> 2023-01-15T14:55:08.323Z
+</div> 2023-01-15T14:59:14.220Z
