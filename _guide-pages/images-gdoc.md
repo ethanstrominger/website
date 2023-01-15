@@ -1,5 +1,5 @@
 ---
-title: 
+title: Images
 description: 
 short-description: 
 card-type: guide-page
@@ -86,4 +86,4 @@ This image is from https://www.codeforboston.org/img/cfb-logo/cfb-logo-stacked-d
 
 ## Right Justified Image
 </div>
-</div> 2023-01-15T14:59:31.529Z
+</div> 2023-01-15T15:01:21.618Z
