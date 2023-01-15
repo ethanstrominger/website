@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/table-gdoc
 cover: 
@@ -34,4 +34,4 @@ Text in a one cell table will be treated as a code block
 | **_Bold & Italic_** |
 | **_<ins>Bold, Italic, and Underline</ins>_** |
 </div>
-</div> 2023-01-15T15:07:41.558Z
+</div> 2023-01-15T21:51:15.318Z
