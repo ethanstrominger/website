@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/bullets-and-lists-gdoc
 cover: 
@@ -50,4 +50,4 @@ This is a numbered list
     
  4. Won't Have
 </div>
-</div> 2023-01-15T15:07:42.562Z
+</div> 2023-01-15T21:51:16.491Z
