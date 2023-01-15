@@ -1,4 +1,16 @@
-[object Promise]<div class="content-section">
+---
+title: 
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+phase: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/advanced-formatting-color-and-fonts-gdoc
+cover: 
+---
+<div class="content-section">
 <div class="section-container" markdown="1">
 
 Times New Roman
@@ -18,4 +30,4 @@ Impact
 
 <span style='color:rgb(255, 255, 255);background-color:rgb(255, 0, 255)'>White text with pink bangrounds</span>
 </div>
-</div> 2023-01-15T14:55:09.352Z
+</div> 2023-01-15T14:59:15.245Z
