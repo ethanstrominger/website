@@ -1,5 +1,5 @@
 ---
-title: 
+title: Table
 description: 
 short-description: 
 card-type: guide-page
@@ -34,4 +34,4 @@ Text in a one cell table will be treated as a code block
 | **_Bold & Italic_** |
 | **_<ins>Bold, Italic, and Underline</ins>_** |
 </div>
-</div> 2023-01-15T14:59:34.371Z
+</div> 2023-01-15T15:01:24.272Z
