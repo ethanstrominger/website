@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/headings-gdoc
 cover: 
@@ -27,4 +27,4 @@ Description of subtopic
 
 Description of buried info
 </div>
-</div> 2023-01-15T15:07:41.078Z
+</div> 2023-01-15T21:51:14.528Z
