@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/center-and-right-justify-with-other-features-gdoc
 cover: 
@@ -71,4 +71,4 @@ Image
 
 <span style='font-size:1.05em;color:rgb(29, 28, 29);background-color:rgb(248, 248, 248)'>n</span><img src="/assets/images/guide-pages/center-and-right-justify-with-other-features-kix.enghn2k9g7s1-gdoc.png" title="" alt="img" height="47PT" width="116PT">
 </div>
-</div> 2023-01-15T15:07:37.987Z
+</div> 2023-01-15T21:51:10.810Z
