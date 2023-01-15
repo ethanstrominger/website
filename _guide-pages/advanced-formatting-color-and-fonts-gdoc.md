@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/advanced-formatting-color-and-fonts-gdoc
 cover: 
@@ -30,4 +30,4 @@ Impact
 
 <span style='color:rgb(255, 255, 255);background-color:rgb(255, 0, 255)'>White text with pink bangrounds</span>
 </div>
-</div> 2023-01-15T15:07:43.583Z
+</div> 2023-01-15T21:51:17.707Z
