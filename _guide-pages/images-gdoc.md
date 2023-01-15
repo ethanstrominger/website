@@ -1,4 +1,4 @@
-<div class="content-section">
+[object Promise]<div class="content-section">
 <div class="section-container" markdown="1">
 ## Heading with a image at end <img src="/assets/images/guide-pages/images-kix.ev5ecyfkrnw9-gdoc.png" title="" alt="img" height="26PT" width="29PT">
 
@@ -74,4 +74,4 @@ This image is from https://www.codeforboston.org/img/cfb-logo/cfb-logo-stacked-d
 
 ## Right Justified Image
 </div>
-</div> 2023-01-14T03:54:18.520Z
+</div> 2023-01-15T14:55:04.512Z
