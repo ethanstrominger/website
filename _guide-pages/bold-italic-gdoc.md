@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bold italic
 description: 
 short-description: 
 card-type: guide-page
@@ -17,4 +17,4 @@ cover:
 
 This is **bold**, _italic_, **bold & italic**, <ins>underline</ins>, **_<ins>bold & italic & underline</ins>_**
 </div>
-</div> 2023-01-15T14:59:36.008Z
+</div> 2023-01-15T15:01:25.837Z
