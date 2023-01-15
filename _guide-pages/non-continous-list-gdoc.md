@@ -1,4 +1,16 @@
-[object Promise]<div class="content-section">
+---
+title: 
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+phase: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/non-continous-list-gdoc
+cover: 
+---
+<div class="content-section">
 <div class="section-container" markdown="1">
 
 This is a numbered list
@@ -21,4 +33,4 @@ This is a numbered list
  1. Really will never have
  2. Really really
 </div>
-</div> 2023-01-15T14:55:05.619Z
+</div> 2023-01-15T14:59:11.291Z
