@@ -1,5 +1,5 @@
 ---
-title: 
+title: How to Set Reminders in Slack GDOC
 description: 
 short-description: 
 card-type: guide-page
@@ -147,4 +147,4 @@ If this method does not work for you, it might be a permissions issue. Discuss w
 
 <span style='font-size:0.91em;color:rgb(102, 102, 102)'>If you are outside the Hack for LA community, please email the</span> [<span style='font-size:0.91em'>guides team</span>](mailto:guides@hackforla.org)<span style='font-size:0.91em;color:rgb(67, 67, 67)'>to provide suggestions for improvement or how the guide is useful for you.</span>
 </div>
-</div> 2023-01-15T14:59:29.702Z
+</div> 2023-01-15T15:01:19.929Z
