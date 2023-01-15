@@ -5,7 +5,7 @@ short-description:
 card-type: guide-page
 status: active
 display: true
-phase: Development
+phase: pending
 svg: svg/2FA.svg
 provider-link: /guide-pages/paragraphs-gdoc
 cover: 
@@ -21,4 +21,4 @@ This is the second paragraph
 
 This is the third paragraph preceded by a blank line
 </div>
-</div> 2023-01-15T15:07:39.581Z
+</div> 2023-01-15T21:51:12.794Z
