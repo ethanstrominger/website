@@ -1,5 +1,5 @@
 ---
-title: 
+title: Advanced Formatting - color and fonts
 description: 
 short-description: 
 card-type: guide-page
@@ -30,4 +30,4 @@ Impact
 
 <span style='color:rgb(255, 255, 255);background-color:rgb(255, 0, 255)'>White text with pink bangrounds</span>
 </div>
-</div> 2023-01-15T14:59:36.642Z
+</div> 2023-01-15T15:01:26.396Z
