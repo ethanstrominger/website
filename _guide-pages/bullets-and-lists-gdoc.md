@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bullets and Lists
 description: 
 short-description: 
 card-type: guide-page
@@ -50,4 +50,4 @@ This is a numbered list
     
  4. Won't Have
 </div>
-</div> 2023-01-15T14:59:35.385Z
+</div> 2023-01-15T15:01:25.295Z
