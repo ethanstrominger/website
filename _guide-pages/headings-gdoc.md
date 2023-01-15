@@ -1,4 +1,16 @@
-[object Promise]<div class="content-section">
+---
+title: 
+description: 
+short-description: 
+card-type: guide-page
+status: active
+display: true
+phase: Development
+svg: svg/2FA.svg
+provider-link: /guide-pages/headings-gdoc
+cover: 
+---
+<div class="content-section">
 <div class="section-container" markdown="1">
 ## Most Important Topic (Heading 1)
 
@@ -15,4 +27,4 @@ Description of subtopic
 
 Description of buried info
 </div>
-</div> 2023-01-15T14:55:06.702Z
+</div> 2023-01-15T14:59:12.353Z
