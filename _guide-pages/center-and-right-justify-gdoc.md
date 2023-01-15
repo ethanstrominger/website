@@ -1,5 +1,5 @@
 ---
-title: 
+title: Center and right justify
 description: 
 short-description: 
 card-type: guide-page
@@ -22,4 +22,4 @@ This is centered text
 
 This is right justified text
 </div>
-</div> 2023-01-15T14:59:30.990Z
+</div> 2023-01-15T15:01:21.071Z
