@@ -17,4 +17,4 @@ This sentence has detailed info in a footnote[^1]
 
 [^1]: <span style='font-size:0.91em'>This information is so tangential it needs to go into a footnote</span>
 </div>
-</div> 2023-01-15T21:51:15.929Z
+</div> 2023-01-16T22:23:01.522Z
