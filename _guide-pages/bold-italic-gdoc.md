@@ -10,11 +10,8 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/bold-italic-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 ## **Bold** and **_Bold, Italic Heading_**
 
 
 This is **bold**, _italic_, **bold & italic**, <ins>underline</ins>, **_<ins>bold & italic & underline</ins>_**
-</div>
-</div> 2023-01-17T03:26:33.356Z
+ 2023-01-17T19:18:42.108Z
