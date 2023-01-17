@@ -10,9 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/links-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 
 [Google](https://google.com)
-</div>
-</div> 2023-01-17T03:26:30.669Z
+ 2023-01-17T19:17:48.915Z
