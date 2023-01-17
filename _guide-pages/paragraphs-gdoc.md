@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/paragraphs-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 
 This is the first paragraph
 
@@ -20,5 +18,4 @@ This is the second paragraph
 
 
 This is the third paragraph preceded by a blank line
-</div>
-</div> 2023-01-17T12:26:14.826Z
+ 2023-01-17T19:17:43.994Z
