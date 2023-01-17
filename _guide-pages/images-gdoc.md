@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/images-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 ## Heading with a image at end <img src="/assets/images/guide-pages/images-kix.ev5ecyfkrnw9-gdoc.png" title="" alt="img" height="26PT" width="29PT">
 
 ## Heading with image <img src="/assets/images/guide-pages/images-kix.qixv2xob2y2r-gdoc.png" title="" alt="img" height="26PT" width="29PT">in the middle 
@@ -85,5 +83,4 @@ This image is from https://www.codeforboston.org/img/cfb-logo/cfb-logo-stacked-d
 ====================================================================
 
 ## Right Justified Image
-</div>
-</div> 2023-01-17T12:26:13.718Z
+ 2023-01-17T19:17:40.471Z
