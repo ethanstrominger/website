@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/table-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 
 Here is a table
 
@@ -33,5 +31,4 @@ Text in a one cell table will be treated as a code block
 | **Bold**, _italic_ |
 | **_Bold & Italic_** |
 | **_<ins>Bold, Italic, and Underline</ins>_** |
-</div>
-</div> 2023-01-17T03:26:31.790Z
+ 2023-01-17T19:17:52.463Z
