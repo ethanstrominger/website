@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/bullets-and-lists-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 
 this is a bulleted list:
 
@@ -49,5 +47,4 @@ This is a numbered list
      3. Non-critical feature 3
     
  4. Won't Have
-</div>
-</div> 2023-01-17T03:26:32.855Z
+ 2023-01-17T19:18:40.136Z
