@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/headings-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 ## Most Important Topic (Heading 1)
 
 
@@ -26,5 +24,4 @@ Description of subtopic
 
 
 Description of buried info
-</div>
-</div> 2023-01-17T03:26:31.180Z
+ 2023-01-17T19:17:50.900Z
