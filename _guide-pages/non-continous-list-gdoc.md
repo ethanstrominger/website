@@ -10,8 +10,6 @@ svg: svg/2FA.svg
 provider-link: /guide-pages/non-continous-list-gdoc
 cover: 
 ---
-<div class="content-section">
-<div class="section-container" markdown="1">
 
 This is a numbered list
 
@@ -32,5 +30,4 @@ This is a numbered list
 
  1. Really will never have
  2. Really really
-</div>
-</div> 2023-01-17T03:26:30.164Z
+ 2023-01-17T19:17:46.915Z
