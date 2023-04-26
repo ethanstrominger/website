@@ -27,6 +27,6 @@ category: development
 ---
 
 
-Front matter looks like:
+Front matter should include above
 </div>
-</div> 2023-04-25T22:31:27.391Z
+</div> 2023-04-26T16:31:08.401Z
