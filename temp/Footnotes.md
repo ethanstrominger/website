@@ -1,0 +1,1 @@
+[{"type":"p","value":"This sentence has detailed info in a footnote[^1]"},{"type":"footnote","value":{"number":"1","text":" <span style='font-size:0.91em'>This information is so tangential it needs to go into a footnote</span>"}}] 2023-04-30T15:45:26.587Z
